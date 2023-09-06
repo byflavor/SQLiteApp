@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>@drawable/dolphin</item>
+        <item>@drawable/whale</item>
+        <item>@drawable/shark</item>
+        <item>@drawable/seahorse</item>
+        <item>@drawable/plankton</item>
+    </array>
+</resources>
